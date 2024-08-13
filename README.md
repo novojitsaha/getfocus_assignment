@@ -23,3 +23,7 @@ To save time and resources, I pre-computed the embeddings and uploaded it to goo
 
 ### Running the project files
 Open Jupyter Notebook in the project directory. Here's a guide on how to run Jupyter Notebook: https://docs.jupyter.org/en/latest/running.html#basic-steps.
+
+
+### Video explaining LLMs for topic modelling
+https://www.youtube.com/watch?v=f0nRUPHjbwE
