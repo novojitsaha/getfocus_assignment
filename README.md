@@ -6,6 +6,12 @@ If Jupyter Notebook is not installed, please install it using the guide here: ht
 ### Clone the github repository
 Clone the repo using ```git clone https://github.com/novojitsaha/getfocus_assignment.git```.
 
+### Creating a python virtual environment. (Optional but recommended)
+It is recommended to install the dependencies in a virtual environment rather than globally. Installation procedure will depend on the host operating system (OS). For Windows, open powershell in the project directory and run `python -m venv ./venv`. 
+Before installing any dependencies, remember to activate the virtual environment. In Windows Powershell, this is done by running `./venv/Scripts/Activate.ps1`. 
+
+For other OS, please look up in the internet. 
+
 ### Creating necesssary folders.
 You may name the name the folders as you wish, but then you have to change the directories in the code as well. To keep it easy, create the following 3 folders: `data`, `output_data`, and `embeddings`.
 
